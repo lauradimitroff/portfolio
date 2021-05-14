@@ -1,0 +1,173 @@
+{
+  "projectsList":[
+	{
+	  "id":"1",
+	  "onHomepage" : true,
+	  "title":"La Cave du Clos",
+	  "link": "https://lacaveduclos.com/",
+	  "description":"La Cave du clos mêle un concept de box de vins de Bourgogne ainsi que des bouteilles vendues à l'unité.",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "caveduclos.jpg",
+		  "bg": "bg-cave.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"2",
+	  "onHomepage" : true,
+	  "title":"Trésors d'orient",
+	  "link": "https://tresors-dorient.fr/",
+	  "description":"Trésors d'Orient est le coin pâtisserie du restaurant Le Palmier à Dijon. Trésors d'Orient propose des pâtisseries orientales à la pièce ou au kilogramme ainsi que des coffrets déjà préparés de plusieurs pâtisseries.",
+	  "cms":"Prestashop 1.7",
+	  "images": [
+		{
+		  "main": "tresors.jpg",
+		  "bg":  "bg-tresors.jpg"
+		}
+	  ],
+	  "summary": "Sur ce projet, je me suis servie d'une maquette PSD pour la page d'accueil et j'ai ensuite poursuivi le design du site en conservant les mêmes couleurs et en choisissant un visuel représentatif. C'est le site sur lequel j'ai fait autant de front que de back."
+	},
+	{
+	  "id":"3",
+	  "onHomepage" : true,
+	  "title":"Bleu Blanc Ruche",
+	  "link": "https://www.bleu-blanc-ruche.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "bbr.jpg",
+		  "bg":  "bg-bbr.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"4",
+	  "onHomepage" : true,
+	  "title":"Nouvelty",
+	  "link": "https://www.nouvelty.com/fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "nouvelty.jpg",
+		  "bg":  "bg-nouvelty.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"5",
+	  "onHomepage" : false,
+	  "title":"Sénéa",
+	  "link": "https://www.senea.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "senea.jpg",
+		  "bg":  "bg-senea.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"6",
+	  "onHomepage" : false,
+	  "title":"Coop Val d'Arly",
+	  "link": "https://coopvaldarly.com/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "coop.jpg",
+		  "bg":  "bg-coop.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"7",
+	  "onHomepage" : false,
+	  "title":"American Dream Shop",
+	  "link": "https://www.americandreamshop.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "dream-shop.jpg",
+		  "bg":  "bg-dreamshop.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"8",
+	  "onHomepage" : false,
+	  "title":"Cosy & Happy",
+	  "link": "https://cosyandhappy.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Wordpress",
+	  "images": [
+		{
+		  "main": "cosy-happy.jpg",
+		  "bg":  "bg-cosy.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"9",
+	  "onHomepage" : false,
+	  "title":"Cabinet ORL",
+	  "link": "https://cabinetorl-besancon-levigny.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Wordpress",
+	  "images": [
+		{
+		  "main": "cab-orl.jpg",
+		  "bg":  "bg-orl.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"10",
+	  "onHomepage" : false,
+	  "title":"OphtaValmy",
+	  "link": "https://ophtavalmy.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Wordpress",
+	  "images": [
+		{
+		  "main": "ophta-valmy.jpg",
+		  "bg":  "bg-ophta.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"11",
+	  "onHomepage" : false,
+	  "title":"Chocolaterie Pautet",
+	  "link": "https://www.jonathanpautet.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Wordpress",
+	  "images": [
+		{
+		  "main": "chocolaterie.jpg",
+		  "bg":  "bg-chocolaterie.jpg"
+		}
+	  ]
+	},
+	{
+	  "id":"12",
+	  "onHomepage" : false,
+	  "title":"Tracer",
+	  "link": "https://tracer.fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Wordpress",
+	  "images": [
+		{
+		  "main": "tracer.jpg",
+		  "bg":  "bg-tracer.jpg"
+		}
+	  ]
+	}
+  ]
+}
