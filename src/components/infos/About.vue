@@ -1,17 +1,12 @@
 <template>
-	<div class="content-about">
-		<h1>{{name}}</h1>
-		<p>{{specialty}}</p>
-		<Btn :data="{btn : '/about', btnText: 'En savoir plus'}" />
+	<div class="content-about-wrapper">
 	</div>
 </template>
 
 <script>
-	import Btn from '.././Btn'
 	export default {
 		name: "About",
 		components: {
-			Btn
 		},
 		data() {
 			return {

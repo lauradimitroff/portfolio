@@ -5,6 +5,7 @@ import Homepage from '@/components/Homepage'
 // import Projects from "../components/projects/Projects";
 import ProjectsPage from "../components/projects/ProjectsPage";
 import Details from "../components/projects/Details";
+import About from "../components/infos/About";
 
 Vue.use(Router)
 export default new Router({
@@ -18,6 +19,10 @@ export default new Router({
 					path: '/',
 					name: 'Homepage',
 					component: Homepage
+				},
+				{
+					path: '/apropos',
+					component: About
 				},
 				{
 					path: '/projects',
