@@ -9,7 +9,7 @@
 			<div class="single-project-description single-project-item">
 				<div class="single-content">
 					<h2 class="content-title">{{ details.title }}</h2>
-					<p>{{ details.description }}</p>
+					<p v-if="Boolean(details.description)">{{ details.description }}</p>
 				</div>
 				<div class="btn-wrapper">
 					<a :href="details.link" target="_blank">Voir le site</a>
