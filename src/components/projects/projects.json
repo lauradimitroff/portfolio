@@ -46,16 +46,17 @@
 	{
 	  "id":"4",
 	  "onHomepage" : true,
-	  "title":"Nouvelty",
-	  "link": "https://www.nouvelty.com/fr/",
-	  "description":"Lorem Ipsum",
+	  "title":"Adventys",
+	  "link": "https://adventys.com/fr/",
+	  "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat nunc velit. Duis hendrerit sodales massa, quis consectetur turpis iaculis a. Etiam feugiat orci sed erat ullamcorper, quis ullamcorper lacus pellentesque. Proin sollicitudin nibh a pulvinar posuere.",
 	  "cms":"Prestashop",
 	  "images": [
 		{
-		  "main": "nouvelty.jpg",
-		  "bg":  "bg-nouvelty.jpg"
+		  "main": "adventys.jpg",
+		  "bg":  "bg-adventys.jpg"
 		}
-	  ]
+	  ],
+	  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat nunc velit. Duis hendrerit sodales massa, quis consectetur turpis iaculis a. Etiam feugiat orci sed erat ullamcorper, quis ullamcorper lacus pellentesque. Proin sollicitudin nibh a pulvinar posuere. Aenean pellentesque arcu quis est pretium, mattis iaculis nisi sodales. Nullam pulvinar velit sed tortor suscipit, porttitor mattis massa fringilla. Donec eget bibendum mi. Nullam mollis consequat justo, in accumsan eros. Sed tempus, sapien eu gravida tincidunt, diam est facilisis erat, vitae luctus magna lacus nec nunc. Nam a venenatis ligula. Etiam ut condimentum lacus. Nulla ex ipsum, luctus ac facilisis sed, tincidunt vitae purus. Cras lacinia massa vitae enim maximus mattis quis sed sapien."
 	},
 	{
 	  "id":"5",
@@ -98,9 +99,22 @@
 		  "bg":  "bg-dreamshop.jpg"
 		}
 	  ]
+	},{
+	  "id":"8",
+	  "onHomepage" : false,
+	  "title":"Nouvelty",
+	  "link": "https://www.nouvelty.com/fr/",
+	  "description":"Lorem Ipsum",
+	  "cms":"Prestashop",
+	  "images": [
+		{
+		  "main": "nouvelty.jpg",
+		  "bg":  "bg-nouvelty.jpg"
+		}
+	  ]
 	},
 	{
-	  "id":"8",
+	  "id":"9",
 	  "onHomepage" : false,
 	  "title":"Cosy & Happy",
 	  "link": "https://cosyandhappy.fr/",
@@ -114,7 +128,7 @@
 	  ]
 	},
 	{
-	  "id":"9",
+	  "id":"10",
 	  "onHomepage" : false,
 	  "title":"Cabinet ORL",
 	  "link": "https://cabinetorl-besancon-levigny.fr/",
@@ -128,7 +142,7 @@
 	  ]
 	},
 	{
-	  "id":"10",
+	  "id":"11",
 	  "onHomepage" : false,
 	  "title":"OphtaValmy",
 	  "link": "https://ophtavalmy.fr/",
@@ -142,7 +156,7 @@
 	  ]
 	},
 	{
-	  "id":"11",
+	  "id":"12",
 	  "onHomepage" : false,
 	  "title":"Chocolaterie Pautet",
 	  "link": "https://www.jonathanpautet.fr/",
@@ -156,7 +170,7 @@
 	  ]
 	},
 	{
-	  "id":"12",
+	  "id":"13",
 	  "onHomepage" : false,
 	  "title":"Tracer",
 	  "link": "https://tracer.fr/",

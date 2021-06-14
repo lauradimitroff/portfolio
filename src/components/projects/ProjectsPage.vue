@@ -1,6 +1,6 @@
 <template>
 	<div class="projects-items-container">
-		<div class="item-project-wrapper" v-for="(project, id) in projectsList" :key="id">
+		<div class="item-project-wrapper" v-for="(project, id) in projectsList" :key="id" data-aos-delay="200" data-aos="fade-up" data-aos-offset="100" :data-aos-duration="project.id * 500" data-aos-easing="ease-out-back">
 			<router-link :to="'/projects/' + project.id">
 				<div class="item-project-wrapper">
 					<div class="item-img-wrapper" v-for="(image, id) in project.images" :key="id">
@@ -44,6 +44,19 @@
 		grid-gap: 20px;
 		max-width: 70%;
 		margin: 4em auto 2.5em auto;
+	}
+
+	.item-img-wrapper img {
+		border-radius: 5px;
+	}
+
+	.item-project-wrapper a h2 {
+		color: var(--primary-color);
+		transition: all 0.35s ease-in-out;
+	}
+
+	.item-project-wrapper a:hover h2 {
+		color: var(--secondary-color);
 	}
 
 </style>

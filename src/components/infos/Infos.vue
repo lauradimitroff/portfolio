@@ -28,15 +28,4 @@
 
 <style scoped>
 
-	.infos-container {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		background: #fff;
-		box-shadow: 10px 10px 100px rgb(0 0 0 / 20%);
-		border-radius: 9px;
-		margin-top: -75px;
-		padding: 0 0 calc(30px + (50 - 30) * ((100vw - 320px) / (1920 - 320))) 0;
-	}
-
 </style>

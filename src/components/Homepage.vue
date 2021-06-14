@@ -10,6 +10,9 @@ import SectionInfos from './infos/SectionInfos'
 import Projects from './projects/Projects'
 export default {
 	name: "Homepage",
+	metaInfo: {
+		title: 'Accueil'
+	},
 	components: {
 		SectionInfos,
 		Projects

@@ -1,23 +1,36 @@
 <template>
 	<div class="content-about-wrapper">
+		<div class="default-container">
+			<div class="infos-container">
+<!--				<Logo/>-->
+				<AboutInfos/>
+			</div>
+		</div>
 	</div>
 </template>
 
 <script>
+	// import Logo from '../_partials/header/Logo'
+	import AboutInfos from './AboutInfos'
 	export default {
 		name: "About",
 		components: {
+			// Logo,
+			AboutInfos
 		},
 		data() {
 			return {
-				name: 'Je suis Laura Ellul.',
-				specialty: 'Je suis développeuse web spécialisée en front-end.'
 			}
 		},
 	}
 </script>
 
 <style scoped>
+
+	.default-container {
+		max-width: 60%;
+		margin: auto;
+	}
 
 	.content-about * {
 		font-family: var(--third-font);
