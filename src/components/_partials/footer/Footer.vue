@@ -31,6 +31,12 @@
 
 	footer {
 		background: var(--primary-color);
+		transition: all 0.35s ease-in-out;
+		letter-spacing: 4px;
+	}
+
+	footer * {
+		font-family: var(--third-font);
 	}
 
 	.footer-container {
