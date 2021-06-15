@@ -7,6 +7,7 @@ import ProjectsPage from "../components/projects/ProjectsPage";
 import Details from "../components/projects/Details";
 import About from "../components/infos/About";
 import Contact from "../components/infos/Contact";
+import MentionsLegales from "../components/infos/MentionsLegales";
 import VueBodyClass from 'vue-body-class';
 
 Vue.use(Router);
@@ -46,6 +47,10 @@ const routes = [
 			{
 				path: '/contact/',
 				component: Contact
+			},
+			{
+				path: '/mentionslegales/',
+				component: MentionsLegales
 			}
 		]
 	}

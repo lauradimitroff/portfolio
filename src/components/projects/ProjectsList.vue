@@ -70,7 +70,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		background-color: rgba(1, 18, 28, .0);
+		background-color: rgba(15, 43, 40, .0);
 		opacity: 1;
 		transition: all .4s ease-in-out;
 		width: 100%;
@@ -78,7 +78,7 @@
 	}
 
 	.item-project-wrapper:hover .item-overlay {
-		background-color: rgba(1, 18, 28, .85);
+		background-color: rgba(15, 43, 40, .85);
 	}
 
 	.item-project-wrapper:hover h2 {
